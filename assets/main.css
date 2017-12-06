@@ -1,0 +1,21 @@
+img {
+    max-width: 500px;
+    max-height: 300px;
+}
+
+#carrousel{
+    position:relative;
+    height:200px;
+    width:700px;
+    margin:auto;
+
+}
+
+#carrousel ul li{
+    position:absolute;
+    top:0;
+    left:0;
+    list-style-type: none;
+
+}
+
